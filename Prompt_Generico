@@ -1,0 +1,61 @@
+# Pronpt Génerico:
+Machine Learning (Aprendizado de Máquina) é uma área da Inteligência Artificial que permite que computadores aprendam padrões a partir de dados e tomem decisões ou façam previsões sem serem programados explicitamente para cada tarefa. 🤖📊
+
+Explicação simples
+
+Em vez de programar todas as regras manualmente, o computador analisa muitos dados, encontra padrões e aprende sozinho como resolver um problema.
+
+📌 Exemplo simples:
+
+Você mostra milhares de fotos de gatos e cachorros para um sistema.
+
+O sistema aprende as diferenças entre eles.
+
+Depois disso, quando aparece uma nova foto, ele consegue prever se é um gato ou cachorro.
+
+Como o Machine Learning funciona
+
+O processo geralmente segue estes passos:
+
+1️⃣ Coleta de dados – reunir informações (imagens, textos, números, etc.).
+2️⃣ Treinamento do modelo – o algoritmo analisa os dados e aprende padrões.
+3️⃣ Teste – verificar se o modelo aprendeu corretamente.
+4️⃣ Previsão – usar o modelo para analisar novos dados.
+
+Principais tipos de Machine Learning
+
+🔹 Aprendizado Supervisionado
+
+O modelo aprende com dados já rotulados (com respostas).
+
+Exemplo: prever preço de casas.
+
+🔹 Aprendizado Não Supervisionado
+
+O modelo encontra padrões sozinho nos dados.
+
+Exemplo: agrupar clientes com comportamentos parecidos.
+
+🔹 Aprendizado por Reforço
+
+O sistema aprende tentando e errando, recebendo recompensas ou punições.
+
+Muito usado em jogos e robótica.
+
+Onde o Machine Learning é usado
+
+Ele está em muitas tecnologias que usamos no dia a dia:
+
+Recomendações da Netflix e Amazon 🎬
+
+Reconhecimento de voz da Google Assistant 🎤
+
+Filtros de spam do Gmail 📧
+
+Algoritmos de recomendação do TikTok 📱
+
+Sistemas de carros autônomos da Tesla 🚗
+
+Resumo (bem simples)
+
+👉 Machine Learning é quando um computador aprende com dados para melhorar suas respostas automaticamente.
